@@ -8,6 +8,8 @@ top five new desirable functionlities that I have not seen before in any other a
 - add vaccine passport section for easy access for in person classes
 - Tutor booking section
 
+Link: https://www.figma.com/file/0WRt2TeuWg379vWs40u2S9/Assignment-2-HCI?node-id=0%3A1
+
 Images:
 
 <img width="159" alt="Screen Shot 2022-02-27 at 8 00 25 PM" src="https://user-images.githubusercontent.com/58194972/155908290-8bc8308e-c10c-4e46-9f8a-3d935beecd67.png">
