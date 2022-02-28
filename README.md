@@ -1,5 +1,7 @@
 # HCI-Assignment2
 
+This is an application made for students around ages 18-45 in order to keep up with everything related to their college classes. Using this application, users can see all of their enrolled classes, and get a detailed view of all of the information, slides, assignments, groupchats and more.
+
 top five new desirable functionlities that I have not seen before in any other apps:
 
 - File & note sharing function between students
